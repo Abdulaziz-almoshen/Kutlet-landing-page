@@ -243,8 +243,8 @@
             <label id="name " for="name ">Name</label>
             <input
               class="form-control"
-              type="text "
-              name="name "
+              type="text"
+              name="name"
               placeholder="John Doe "
             />
           </div>
@@ -304,7 +304,7 @@
             >
               <div>
                 <span class="hidden md:inline">· </span>
-                <a class="hover:bg-yellow-500 p-1" href="# ">Address: 7091,عبدالرحمن الناصر، النهضة</a>
+                <a class="hover:bg-yellow-500 p-1" href="# ">Address:  7350 خالد بن الوليد - حي الحمراء وحدة رقم 212 4518 - 13216 الرياض</a>
                 <span class="hidden md:inline"> ·</span>
               </div>
               <div>
