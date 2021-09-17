@@ -277,31 +277,19 @@
           <div>
             <div class="mt-4 ml-8 md:flex md:justify-center">
               <div class="cursor-pointer">
-                <img
-                  class="h-8 inline-block mr-1"
-                  src="images/logos/facebook.svg "
-                  alt="Facebook"
-                />
+               
                 <span class="hover:bg-yellow-500 p-1 mr-20"
                   >شركة الموجة الدائمة التجارية</span
                 >
               </div>
               <div class="cursor-pointer">
-                <img
-                  class="h-8 inline-block mr-1"
-                  src="images/logos/twitter.svg "
-                  alt="Twitter"
-                />
+              
                 <span class="hover:bg-yellow-500 p-1 mr-20"
                   >@kutlet</span
                 >
               </div>
               <div class="cursor-pointer">
-                <img
-                  class="h-8 inline-block mr-1"
-                  src="images/logos/instagram.svg "
-                  alt="Instagram"
-                />
+               
                 <span class="hover:bg-yellow-500 p-1">CR:1010665116</span>
               </div>
             </div>
@@ -316,15 +304,15 @@
             >
               <div>
                 <span class="hidden md:inline">· </span>
-                <a class="hover:bg-yellow-500 p-1" href="# ">7091,عبدالرحمن الناصر، النهضة</a>
+                <a class="hover:bg-yellow-500 p-1" href="# ">Address: 7091,عبدالرحمن الناصر، النهضة</a>
                 <span class="hidden md:inline"> ·</span>
               </div>
               <div>
-                <a class="hover:bg-yellow-500 p-1" href="# "> +966550433132</a>
+                <a class="hover:bg-yellow-500 p-1" href="# ">Phone: +966550433132</a>
                 <span class="hidden md:inline"> ·</span>
               </div>
               <div>
-                <a class="hover:bg-yellow-500 p-1" href="# ">social@kutlet.co</a>
+                <a class="hover:bg-yellow-500 p-1" href="# ">Contact: social@kutlet.co</a>
                 <span class="hidden md:inline"> ·</span>
               </div>
               <div>
