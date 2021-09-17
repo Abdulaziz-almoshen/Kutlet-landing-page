@@ -46,7 +46,7 @@
               "
             >
               <h1 class="text-5xl md:text-6xl">Burguer & Shakes</h1>
-              <h2 class="text-4xl md:text-5xl">Bienvenidos</h2>
+              <h2 class="text-4xl md:text-5xl">Welcome</h2>
             </div>
             <!-- <h2 class="text-5xl font-thin leading-loose ">Bienvenidos</h2> -->
           </div>
