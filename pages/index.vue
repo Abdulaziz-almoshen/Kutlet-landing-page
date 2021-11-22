@@ -17,7 +17,11 @@
         <!-- Header -->
         <header class="header bg-red-600 md:grid-rows-2 md:grid-cols-5">
           <div class="row-span-2">
-            <img class="h-13 w-13" src="public/images/logo-food-2x.png" alt="Logo del sitio" />
+            <img
+              class="h-13 w-13"
+              src="public/images/logo-food-2x.png"
+              alt="Logo del sitio"
+            />
           </div>
           <div class="text-5xl text-right pr-5 md:hidden" @click="open = true">
             &equiv;
@@ -121,7 +125,7 @@
                   Tamarindo | BBQ | Cajún
                 </p>
                 <div class="text-sm font-semibold text-gray-700 mt-2">
-                 81.90 SR
+                  81.90 SR
                 </div>
                 <div class="card-footer md:flex-col">
                   <div>
@@ -165,7 +169,7 @@
                   con galletas y crema batida.
                 </p>
                 <div class="text-sm font-semibold text-gray-700 mt-2">
-                   55.00 SR
+                  55.00 SR
                 </div>
                 <div class="card-footer md:flex-col">
                   <div>
@@ -277,19 +281,14 @@
           <div>
             <div class="mt-4 ml-8 md:flex md:justify-center">
               <div class="cursor-pointer">
-               
                 <span class="hover:bg-yellow-500 p-1 mr-20"
                   >شركة الموجة الدائمة التجارية</span
                 >
               </div>
               <div class="cursor-pointer">
-              
-                <span class="hover:bg-yellow-500 p-1 mr-20"
-                  >@kutlet</span
-                >
+                <span class="hover:bg-yellow-500 p-1 mr-20">@kutlet</span>
               </div>
               <div class="cursor-pointer">
-               
                 <span class="hover:bg-yellow-500 p-1">CR:1010665116</span>
               </div>
             </div>
@@ -304,15 +303,26 @@
             >
               <div>
                 <span class="hidden md:inline">· </span>
-                <a class="hover:bg-yellow-500 p-1" href="# ">Address:  7350 خالد بن الوليد - حي الحمراء وحدة رقم 212 4518 - 13216 الرياض</a>
+                <a class="hover:bg-yellow-500 p-1" href="# "
+                  >Address: 7350 خالد بن الوليد - حي الحمراء وحدة رقم 212 4518 -
+                  13216 الرياض</a
+                >
                 <span class="hidden md:inline"> ·</span>
               </div>
               <div>
-                <a class="hover:bg-yellow-500 p-1" href="# ">Phone: +966550433132</a>
+                <a class="hover:bg-yellow-500 p-1" href="# "
+                  >Phone: +966550433132</a
+                >
+                <a class="hover:bg-yellow-500 p-1" href="# "
+                  > Almojah Aldaimah Trading Company </a
+                >
+
                 <span class="hidden md:inline"> ·</span>
               </div>
               <div>
-                <a class="hover:bg-yellow-500 p-1" href="# ">Contact: social@kutlet.co</a>
+                <a class="hover:bg-yellow-500 p-1" href="# "
+                  >Contact: social@kutlet.co</a
+                >
                 <span class="hidden md:inline"> ·</span>
               </div>
               <div>
